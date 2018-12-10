@@ -1,5 +1,9 @@
 ﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
  
+ ![미친러닝](./michin.jpg)
+ 딥러닝을 통해서 생성된 합성 이미지 ! 피카소풍의 사진! 
+*  *  *
+ 
  ![미친 러닝](./crazy.png)
 # + 수퍼 대학원생 김용휘!
  
@@ -172,17 +176,29 @@
 *  *  *
 
 **2018년 11월 13일: 논문 발표**</br>
-    - 임병준: CNN을 이용한 글자별 한글 필적감정 알고리즘([논문](https://github.com/BJ-Lim/MichinLearning/blob/master/paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) / [발표자료](https://github.com/BJ-Lim/MichinLearning/blob/master/paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(%EC%9E%84%EB%B3%91%EC%A4%80).pptx))</br>
+    - 임병준: CNN을 이용한 글자별 한글 필적감정 알고리즘([논문](./paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) / [발표자료](./paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(%EC%9E%84%EB%B3%91%EC%A4%80).pptx))</br>
     - 임승현: 머신러닝을_이용한_표정분류
 
 *  *  *
 
+**2018년 11월 15일: 논문 발표**</br>
+    - 김민정: 
+    - 이종학: CNN을 이용한 문자열 CAPTCHA 공격
 
+*  *  *
+
+**2018년 11월 19일: 논문 발표**</br>
+    - 정재민: Parallel Stacked Bidirectional LSTM 모델을 이용한 한국어 영화리뷰 감성 분석
+
+- [논문자료](./paper/Parallel%20Stacked%20Bidirectional%20LSTM%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.pdf)   
+- [PPT](./paper/Parallel%20Stacked%20Bidirectional%20LSTM%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.pptx)
+*  *  *
 
 **2018년 11월 23일-24일**
     - 대한전자공학회 2018년도 정기총회 및 추계학술대회
     - 2018년 11월 23일(금)~24일(토) / 송도 컨벤시아(인천광역시 연수구 송도동)
-    
+
+![논문발표](./paper_mj.jpg)    
 
 **[추천] 2018년 12월 7일 (금요일)**
 
@@ -207,3 +223,5 @@
 *  *  *
 
 ## Very Special Thanks to 한림 소프트웨어 중심대학 사업단
+
+![X-banner](./x-banner.png)
